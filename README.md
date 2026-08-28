@@ -165,7 +165,7 @@ A Seaborn line plot is used to show the trend of confirmed COVID-19 cases accord
 <img width="850" height="780" alt="Screenshot 2026-08-26 204738" src="https://github.com/user-attachments/assets/f3023343-effe-4de1-86aa-8a9bc9bc19b3" />
 <img width="835" height="827" alt="Screenshot 2026-08-26 204754" src="https://github.com/user-attachments/assets/0479cf31-c0e7-4149-9f6c-fee4b4b167da" />
 
-2. video link:
+2. video link: https://drive.google.com/file/d/1MtnwsMcpweZLrlNwl9e4FrcMb-Ws0gHC/view?usp=drive_link
 
 ## 7. Advantages
 
